@@ -1,7 +1,10 @@
 # TiPy generator
 
+https://supertolek.github.io/TiPy/README.md
+
 > ### What is Ti advanced?
 > TiPy is a way to make the cration of Ti-basic programms easyer.
+> 
 > ⚠️This documentation was made for an older version on TiPy
 
 ## Structure
